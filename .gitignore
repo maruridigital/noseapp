@@ -41,5 +41,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-plugins/cordova-plugin-whitelist/whitelist.js
+plugins/
+platforms/
+hooks/
 config.xml
